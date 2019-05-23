@@ -1,0 +1,44 @@
+body {
+	background-color: lightblue;
+}
+
+
+
+.speletaji {
+	width: 800px;
+	margin:auto;
+	text-align: center;
+	height: 800px;
+}
+
+.rezultats {
+	background-color: light blue;
+	padding: 30px 0 30px 0;
+	width: 100%;
+	font-weight: bold;
+	font-size: 50px;
+	color: white;
+}
+
+.gamer1 {
+	background-color: white;
+	padding: 45px 0 45px 0;
+	height: 400px;
+	width: 50%;
+	float: left;
+}
+
+.gamer2 {
+	background-color: #5DBCD2;
+	padding: 45px 0 45px 0;
+	height: 400px;
+	width: 50%;
+	float: left;
+}
+
+.under {
+    background-color: blue;
+	height: 100px;
+	width: 400px;
+	text-align: center;
+}
